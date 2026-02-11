@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MattD-123
 - 👀 I’m interested in learning as many languages as I can
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing atm
+- 🌱 I’m currently learning Electrical Engineering
 - 📫 How to reach me email @matthewdoe782@gmail.com 
 <!---
 MattD-123/MattD-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
