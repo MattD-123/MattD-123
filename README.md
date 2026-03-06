@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MattD-123
-- 👀 I’m interested in learning as many languages as I can
 - 🌱 I’m currently learning Electrical Engineering
 - 📫 How to reach me email @matthewdoe782@gmail.com 
 <!---
